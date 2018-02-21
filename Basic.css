@@ -1,0 +1,59 @@
+body{
+   font-family: Verdana, "Arial Narrow", sans-serif;
+}
+
+h1{
+   text-align : justify;
+   font-size: 30;
+   line-height: 14pt;
+   color : blue;
+}
+
+h2{
+   text-align :20 pt;
+   line-height: 14pt;
+   color : red;
+}
+
+h3{
+   text-align : justify;
+   font-size: 15 pt;
+   line-height: 14pt;
+   color : purple;
+}
+
+p{
+   text-align : justify;
+   font-size: 10 pt;
+   line-height: 14pt;
+   color : green;
+}
+
+table, th, td {
+   text-align : justify;
+   font-size: 10 pt;
+   line-height: 14pt; 
+   color : green;
+   border: solid black 1px;
+   border-collapse: collapse;
+   padding: 15px;
+}
+
+p {
+    text-indent: 50px;
+}
+
+.center {
+   text-align: center;
+}
+
+img
+{
+	border-color : black; 
+	border-width : medium;
+	border-style : solid;
+	padding : 5% ;
+	margin : 2% ;
+}
+
+
