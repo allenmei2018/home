@@ -12,21 +12,21 @@ h1{
 h2{
    text-align :20 pt;
    line-height: 14pt;
-   color : red;
+   color : black;
 }
 
 h3{
    text-align : justify;
    font-size: 15 pt;
    line-height: 14pt;
-   color : purple;
+   color : black;
 }
 
 p{
    text-align : justify;
    font-size: 10 pt;
    line-height: 14pt;
-   color : green;
+   color : black;
 }
 
 table, th, td {
