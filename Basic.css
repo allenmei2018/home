@@ -10,7 +10,8 @@ h1{
 }
 
 h2{
-   text-align :20 pt;
+   text-align : justify;
+   font-size :20 pt;
    line-height: 14pt;
    color : black;
 }
@@ -18,7 +19,7 @@ h2{
 h3{
    text-align : justify;
    font-size: 15 pt;
-   line-height: 14pt;
+   line-height: 14 pt;
    color : black;
 }
 
