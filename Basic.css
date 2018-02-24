@@ -6,36 +6,36 @@ h1{
    text-align : justify;
    font-size: 30;
    line-height: 14pt;
-   color : blue;
+   color : white;
 }
 
 h2{
    text-align : justify;
    font-size :20 pt;
    line-height: 14pt;
-   color : black;
+   color : white;
 }
 
 h3{
    text-align : justify;
    font-size: 15 pt;
    line-height: 14 pt;
-   color : black;
+   color : white;
 }
 
 p{
    text-align : justify;
    font-size: 10 pt;
    line-height: 14 pt;
-   color : black;
+   color : white;
 }
 
 table, th, td {
    text-align : justify;
    font-size: 10 pt;
    line-height: 14pt; 
-   color : green;
-   border: solid black 1px;
+   color : white;
+   border: solid white 1px;
    border-collapse: collapse;
    padding: 15px;
 }
@@ -47,7 +47,7 @@ table, th, td {
 }
 
 img{
-	border-color : black; 
+	border-color : blue; 
 	border-width : medium;
 	border-style : solid;
 	padding : 5% ;
