@@ -5,7 +5,7 @@ body{
 h1{
    text-align : justify;
    font-size: 30;
-   line-height: 14pt;
+   line-height: 14 pt;
    color : black;
 }
 
@@ -35,9 +35,9 @@ table, th, td {
    font-size: 10 pt;
    line-height: 14pt; 
    color : black;
-   border: solid black 1px;
+   border: solid black 1 px;
    border-collapse: collapse;
-   padding: 15px;
+   padding: 15 px;
 }
 
 
@@ -50,8 +50,8 @@ img{
 	border-color : black; 
 	border-width : medium;
 	border-style : solid;
-	padding : 5% ;
-	margin : 2% ;
+	padding : 5 % ;
+	margin : 2 % ;
 }
 
 
