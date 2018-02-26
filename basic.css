@@ -1,0 +1,104 @@
+body {
+   font-family: Verdana, "Arial Narrow", sans-serif;
+   background-image: url("leafs.jpg");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+
+h1 {
+   text-align : justify;
+   font-size: 30;
+   line-height: 14pt;
+   color : white;
+}
+
+h2 {
+   text-align : justify;
+   font-size :20pt;
+   line-height: 14pt;
+   color : white;
+}
+
+h3 {
+   text-align : justify;
+   font-size: 15pt;
+   line-height: 14pt;
+   color : white;
+}
+
+p {
+   text-align : justify;
+   font-size: 10 pt;
+   line-height: 14pt;
+   color : white;
+}
+
+table, th, td {
+   text-align : justify;
+   font-size: 10pt;
+   line-height: 14pt; 
+   border: 1px solid black;
+   border-collapse: collapse;
+   padding: 15px;
+}
+
+
+
+.center {
+   text-align: center;
+}
+
+img {
+   border-color : black; 
+   border-width : medium;
+   border-style : solid;
+   padding : 5 % ;
+   margin : 2 % ;
+	
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+/* I made a navigation bar to easily navigate around the sites that I have made */ 
+
+
+.middle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+#a123 {
+   text-align: center;
+   font-size: 50px;
+   line-height: 14pt;
+   color : white;
+}
+
+.padding {
+   padding-top: 10px;
+}
